@@ -8,9 +8,9 @@ Repositório de estudos dedicado ao curso de Java e Programação Orientada a Ob
 
 Devido a uma perda parcial de dados, o progresso foi dividido em:
 
-  Pasta 01 (Aulas Salvas): Conteúdo original preservado.
+  Pasta 01 (Aulas Salvas): Conteúdo original recuperado.
 
-  Pasta 02 (Revisão): Exercícios e aulas refeitos para recompor o aprendizado.
+  Pasta 02 (Revisão): Aulas refeitos para recompor o aprendizado.
 
 🎓 Sobre o Curso
 
