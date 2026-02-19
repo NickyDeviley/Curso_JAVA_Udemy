@@ -1,0 +1,31 @@
+package Listas;
+
+public class Funcionario {
+
+    private int id;
+    private String nome;
+    private double salario;
+
+    public Funcionario() {
+        this(0, "", 0.0f);
+    }
+
+    public Funcionario(int id, String nome, double salario) {
+        this.id = id;
+        this.nome = nome;
+        this.salario = salario;
+    }
+
+    public int getId() { return this.id; }
+    public String getNome() { return this.nome; }
+    public double getSalario() { return this.salario; }
+
+    public void SalarioPorcent(float porcentagem) {
+
+        double percent = porcentagem / 100;
+
+        this.salario = salario + (salario * percent);
+
+    }
+
+}
