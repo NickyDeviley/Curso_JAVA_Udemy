@@ -1,4 +1,4 @@
-#☕ Java COMPLETO (Nélio Alves)
+#☕ Java COMPLETO Programação Orientada a Objetos + Projetos
 
 Link: https://www.udemy.com/share/1013hw3@utYWV9iMvH6ncvAr7guhQS8g8-Na53RY1emiRHCSutBGj0M4Rvy0Kg45rIHx3SrTyA==/
 
