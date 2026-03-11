@@ -1,21 +1,41 @@
-#☕ Java COMPLETO Programação Orientada a Objetos + Projetos
+# Java COMPLETO Programação Orientada a Objetos + Projetos – Repositório de estudos e exercícios práticos.
 
 Link: https://www.udemy.com/share/1013hw3@utYWV9iMvH6ncvAr7guhQS8g8-Na53RY1emiRHCSutBGj0M4Rvy0Kg45rIHx3SrTyA==/
 
-Repositório de estudos dedicado ao curso de Java e Programação Orientada a Objetos na Udemy.
+Descrição: Este repositório contém o código desenvolvido durante o curso do instrutor Nélio Alves na Udemy. O projeto tem como objetivo consolidar o aprendizado em Java e Programação Orientada a Objetos (POO), cobrindo desde lógica básica até tópicos avançados como herança, polimorfismo e manipulação de memória. A estrutura está dividida entre conteúdos originais recuperados e revisões para garantir a integridade do aprendizado após uma perda parcial de dados.
 
-📂 Organização
+Pré-requisitos:
 
-Devido a uma perda parcial de dados, o progresso foi dividido em:
+    Java Development Kit (JDK) 11 ou superior.
 
-  Pasta 01 (Aulas Salvas): Conteúdo original recuperado.
+    Eclipse IDE (ou outra IDE de sua preferência).
 
-  Pasta 02 (Revisão): Aulas refeitos para recompor o aprendizado.
+Instalação/Uso:
 
-🎓 Sobre o Curso
+    Clone o repositório: git clone [URL_DO_REPOSITORIO]
 
-  Instrutor: Nélio Alves
+    Abra o Eclipse IDE.
 
-  Plataforma: Udemy
+    Vá em File > Import... > General > Existing Projects into Workspace.
 
-  Carga Horária: 54 horas de conteúdo prático e teórico.
+    Selecione a pasta onde o repositório foi clonado e clique em Finish.
+
+    Navegue pelas pastas:
+
+        Pasta 01 (Aulas Salvas): Conteúdos originais.
+
+        Pasta 02 (Revisão): Exercícios refeitos para fixação.
+
+    Localize a classe com o método main e execute utilizando Ctrl + F11.
+
+Tecnologias:
+
+    Java
+
+    Eclipse IDE
+
+Contribuição: 
+
+    Este é um repositório pessoal para fins de estudo. Sinta-se à vontade para abrir uma issue ou enviar um pull request caso encontre alguma melhoria nas resoluções dos exercícios ou na organização dos pacotes.
+
+Licença: MIT License
